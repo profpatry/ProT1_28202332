@@ -1,0 +1,69 @@
+/* miestilo.css */
+/* miestilo.css */
+
+body {
+    background-color: #eaf2e3;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/*<body>
+    <div class="contenedor">
+        <p class="texto-destacado">Somos una empresa que se dedica a la venta de relojes de mesa y pared con diseños únicos e innovadores. Utilizamos materia prima de calidad. Elaboramos productos a la medida del cliente.</p>
+        <p>Otro párrafo dentro de la misma división.</p>
+    </div>
+</body>*/
+
+/* miestilo.css*/
+header {
+    background-color: #69bd45;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para la sección */
+section {
+    padding: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}/* Estilos para el menú de navegación */
+nav {
+    background-color: #4caf50;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #2f8247;
+}
